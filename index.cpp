@@ -10,4 +10,5 @@ int main(){
     cout<<"\n sum of a + b "<< a+b;
 
     cout<<"\n sum of a - b"<<a-b;
+    //lol
 }
